@@ -1,0 +1,277 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Unity\\Projects\\SuGa BLAZE\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|d:\\unity\\projects\\suga blaze\\assets\\scripts\\pausemenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\pausemenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|d:\\unity\\projects\\suga blaze\\assets\\scripts\\coin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\coin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|d:\\unity\\projects\\suga blaze\\assets\\scripts\\lanefollow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\lanefollow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|d:\\unity\\projects\\suga blaze\\assets\\scripts\\obspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\obspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|d:\\unity\\projects\\suga blaze\\assets\\scripts\\playeranimation3d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playeranimation3d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|d:\\unity\\projects\\suga blaze\\assets\\scripts\\runningmananimation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\runningmananimation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|d:\\unity\\projects\\suga blaze\\assets\\scripts\\playercontroller3d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playercontroller3d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|d:\\unity\\projects\\suga blaze\\assets\\scripts\\camerafollow3d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\camerafollow3d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|d:\\unity\\projects\\suga blaze\\assets\\scripts\\gamemanager3d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamemanager3d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|d:\\unity\\projects\\suga blaze\\assets\\scripts\\audiomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\audiomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|d:\\unity\\projects\\suga blaze\\assets\\scripts\\triggerdetector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\triggerdetector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|d:\\unity\\projects\\suga blaze\\assets\\scripts\\obstaclehit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\obstaclehit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|d:\\unity\\projects\\suga blaze\\assets\\scripts\\endlesstrack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\endlesstrack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|d:\\unity\\projects\\suga blaze\\assets\\scripts\\backgroundfollow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\backgroundfollow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|d:\\unity\\projects\\suga blaze\\assets\\scripts\\mainmenu3d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\mainmenu3d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|d:\\unity\\projects\\suga blaze\\assets\\scripts\\spawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\spawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GameManager3D.cs",
+              "DocumentMoniker": "D:\\Unity\\Projects\\SuGa BLAZE\\Assets\\Scripts\\GameManager3D.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GameManager3D.cs",
+              "ToolTip": "D:\\Unity\\Projects\\SuGa BLAZE\\Assets\\Scripts\\GameManager3D.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GameManager3D.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAAAFMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T10:29:09.359Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "EndlessTrack.cs",
+              "DocumentMoniker": "D:\\Unity\\Projects\\SuGa BLAZE\\Assets\\Scripts\\EndlessTrack.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\EndlessTrack.cs",
+              "ToolTip": "D:\\Unity\\Projects\\SuGa BLAZE\\Assets\\Scripts\\EndlessTrack.cs",
+              "RelativeToolTip": "Assets\\Scripts\\EndlessTrack.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAAAFEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T10:26:42.96Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ObstacleHit.cs",
+              "DocumentMoniker": "D:\\Unity\\Projects\\SuGa BLAZE\\Assets\\Scripts\\ObstacleHit.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ObstacleHit.cs",
+              "ToolTip": "D:\\Unity\\Projects\\SuGa BLAZE\\Assets\\Scripts\\ObstacleHit.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ObstacleHit.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T10:25:15.635Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ObSpawner.cs",
+              "DocumentMoniker": "D:\\Unity\\Projects\\SuGa BLAZE\\Assets\\Scripts\\ObSpawner.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ObSpawner.cs",
+              "ToolTip": "D:\\Unity\\Projects\\SuGa BLAZE\\Assets\\Scripts\\ObSpawner.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ObSpawner.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAgwEQAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-19T12:22:18.517Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Spawner.cs",
+              "DocumentMoniker": "D:\\Unity\\Projects\\SuGa BLAZE\\Assets\\Scripts\\Spawner.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Spawner.cs",
+              "ToolTip": "D:\\Unity\\Projects\\SuGa BLAZE\\Assets\\Scripts\\Spawner.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Spawner.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-19T12:19:16.03Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CameraFollow3D.cs",
+              "DocumentMoniker": "D:\\Unity\\Projects\\SuGa BLAZE\\Assets\\Scripts\\CameraFollow3D.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CameraFollow3D.cs",
+              "ToolTip": "D:\\Unity\\Projects\\SuGa BLAZE\\Assets\\Scripts\\CameraFollow3D.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CameraFollow3D.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-19T11:22:26.672Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PlayerController3D.cs",
+              "DocumentMoniker": "D:\\Unity\\Projects\\SuGa BLAZE\\Assets\\Scripts\\PlayerController3D.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerController3D.cs",
+              "ToolTip": "D:\\Unity\\Projects\\SuGa BLAZE\\Assets\\Scripts\\PlayerController3D.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerController3D.cs",
+              "ViewState": "AgIAAF0AAAAAAAAAAAAAAHAAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-19T11:15:21.816Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PlayerAnimation3D.cs",
+              "DocumentMoniker": "D:\\Unity\\Projects\\SuGa BLAZE\\Assets\\Scripts\\PlayerAnimation3D.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerAnimation3D.cs",
+              "ToolTip": "D:\\Unity\\Projects\\SuGa BLAZE\\Assets\\Scripts\\PlayerAnimation3D.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerAnimation3D.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-25T11:03:29.056Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Coin.cs",
+              "DocumentMoniker": "D:\\Unity\\Projects\\SuGa BLAZE\\Assets\\Scripts\\Coin.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Coin.cs",
+              "ToolTip": "D:\\Unity\\Projects\\SuGa BLAZE\\Assets\\Scripts\\Coin.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Coin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-22T11:52:57.288Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PauseMenu.cs",
+              "DocumentMoniker": "D:\\Unity\\Projects\\SuGa BLAZE\\Assets\\Scripts\\PauseMenu.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PauseMenu.cs",
+              "ToolTip": "D:\\Unity\\Projects\\SuGa BLAZE\\Assets\\Scripts\\PauseMenu.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PauseMenu.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAIwDwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T11:07:51.458Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LaneFollow.cs",
+              "DocumentMoniker": "D:\\Unity\\Projects\\SuGa BLAZE\\Assets\\Scripts\\LaneFollow.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\LaneFollow.cs",
+              "ToolTip": "D:\\Unity\\Projects\\SuGa BLAZE\\Assets\\Scripts\\LaneFollow.cs",
+              "RelativeToolTip": "Assets\\Scripts\\LaneFollow.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-31T11:03:02.848Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RunningManAnimation.cs",
+              "DocumentMoniker": "D:\\Unity\\Projects\\SuGa BLAZE\\Assets\\Scripts\\RunningManAnimation.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\RunningManAnimation.cs",
+              "ToolTip": "D:\\Unity\\Projects\\SuGa BLAZE\\Assets\\Scripts\\RunningManAnimation.cs",
+              "RelativeToolTip": "Assets\\Scripts\\RunningManAnimation.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAYwDYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-28T10:31:05.181Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "BackgroundFollow.cs",
+              "DocumentMoniker": "D:\\Unity\\Projects\\SuGa BLAZE\\Assets\\Scripts\\BackgroundFollow.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\BackgroundFollow.cs",
+              "ToolTip": "D:\\Unity\\Projects\\SuGa BLAZE\\Assets\\Scripts\\BackgroundFollow.cs",
+              "RelativeToolTip": "Assets\\Scripts\\BackgroundFollow.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwEcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-24T11:32:31.838Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AudioManager.cs",
+              "DocumentMoniker": "D:\\Unity\\Projects\\SuGa BLAZE\\Assets\\Scripts\\AudioManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\AudioManager.cs",
+              "ToolTip": "D:\\Unity\\Projects\\SuGa BLAZE\\Assets\\Scripts\\AudioManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\AudioManager.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAYwE8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-25T10:15:23.26Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TriggerDetector.cs",
+              "DocumentMoniker": "D:\\Unity\\Projects\\SuGa BLAZE\\Assets\\Scripts\\TriggerDetector.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\TriggerDetector.cs",
+              "ToolTip": "D:\\Unity\\Projects\\SuGa BLAZE\\Assets\\Scripts\\TriggerDetector.cs",
+              "RelativeToolTip": "Assets\\Scripts\\TriggerDetector.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-25T10:27:44.051Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MainMenu3D.cs",
+              "DocumentMoniker": "D:\\Unity\\Projects\\SuGa BLAZE\\Assets\\Scripts\\MainMenu3D.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MainMenu3D.cs",
+              "ToolTip": "D:\\Unity\\Projects\\SuGa BLAZE\\Assets\\Scripts\\MainMenu3D.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MainMenu3D.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-23T10:51:00.29Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
